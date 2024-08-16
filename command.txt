@@ -1,3 +1,6 @@
+  291  git status
+  292  git init
+ 
  293  git status
   294  git add .
   295  dit status
