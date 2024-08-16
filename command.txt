@@ -1,0 +1,12 @@
+ 293  git status
+  294  git add .
+  295  dit status
+  296  git status
+  297  git push
+  298  git remote add . https://github.com/carrieyanzh/demoauth.git
+  299  git remote add origin https://github.com/carrieyanzh/demoauth.git
+  300  git status
+  301  git commit -m "jwt spring boot"
+  302  git push
+  303  git push --set-upstream origin master
+
